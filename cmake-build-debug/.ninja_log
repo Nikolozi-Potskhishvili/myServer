@@ -1,4 +1,6 @@
 # ninja log v6
-9	1353	7426063023459887	CMakeFiles/myServer.dir/main.c.obj	4d87cf123ceea0ed
-6	99	7426063894460976	myServer.exe	9a39a45d41b8bd89
-3	221	7426067809270537	build.ninja	6edbedcebc30a723
+7	1787	7426641225303404	CMakeFiles/myServer.dir/main.c.obj	4d87cf123ceea0ed
+1293	1483	7426651361338884	myServer.exe	e3124a54d04e997b
+5	232	7426655809778976	build.ninja	6edbedcebc30a723
+35	1292	7426651348770098	CMakeFiles/myServer.dir/src/main.c.obj	92bff2a98bf26c1d
+4	231	7426655809778976	build.ninja	6edbedcebc30a723
